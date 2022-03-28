@@ -1,4 +1,4 @@
-const myDiv = document.getElementById("f-10");
+const myDiv = document.getElementById("f10");
 
 myDiv.innerHTML = `
     <div class="container w-50">
