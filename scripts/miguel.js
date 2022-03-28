@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     <img class="card-img-top" src=${foto} alt="Card image cap">
     <div class="card-body">
     <h5 class="card-title">Miguel Arias</h5>
-    <p class="card-text">Soy de Bogota tengo 27 años me apasiona mucho la programacion me gusta viajar compartir con amigos.</p>
+    <p class="card-text">Soy de Bogota tengo 27 años, tengo conocimentos de python, sql y JAVA.</p>
   </div>
 </div>`
 })
