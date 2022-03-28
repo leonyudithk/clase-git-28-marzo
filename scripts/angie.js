@@ -3,7 +3,7 @@ let presentacion = document.getElementById ("f10");
 
 presentacion.innerHTML += `
 
-<div class="card text-white bg-primary mb-3" style="max-width: 18rem">
+<div class="card text-white bg-dark mb-3" style="max-width: 18rem">
 <div class="card-header"><b>ANGIE LORENA GORDILLO ROA</b> </div>
 <div class="card-body">
 <img class="card-img" src="img/me.jpeg" alt="Card image">
