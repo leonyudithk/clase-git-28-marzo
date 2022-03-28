@@ -16,6 +16,6 @@ const presentation = `
         </div>
     </div>
 `;  
-const div10 = document.getElementById("10");
-div10.innerHTML(presentation)
+const div10 = document.querySelector("#10");
+div10.innerHTML(presentation);
 
